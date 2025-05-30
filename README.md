@@ -95,7 +95,7 @@ It's important to note that these perfect scores were achieved on **synthetic da
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
     ```
-2.  Open and run the `prediksi-reservasi-parkir (1).ipynb` notebook in a Jupyter environment (e.g., Jupyter Notebook or JupyterLab).
+2.  Open and run the `prediksi-reservasi-parkir.ipynb` notebook in a Jupyter environment (e.g., Jupyter Notebook or JupyterLab).
 3.  The dataset `reservasi_parkir.csv` needs to be available at the appropriate path (the notebook assumes a Kaggle environment path). If running locally, adjust the dataset path accordingly.
 
 ## How to Use the Saved Model
